@@ -20,7 +20,7 @@ The server will start and wait for requests on the specified port (by default, i
 
 
 - `/`: Home page.
-- `/about`: About page.
+- `/about`: information page.
 
 ## Dependencies
 
