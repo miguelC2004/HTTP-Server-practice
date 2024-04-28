@@ -12,7 +12,7 @@ The project is organized into several modules:
 - `utils/config.py`: Loads configuration settings from a `.env` file.
 
 ## Usage
-'''
+```bash
 pipenv run python main.py
-'''
+```
 
