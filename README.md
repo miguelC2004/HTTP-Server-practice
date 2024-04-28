@@ -1,15 +1,15 @@
 # Simple HTTP Server in Python
 
-This is a simple HTTP server implemented in Python using basic HTTP handling classes provided by the standard library. The server follows good design practices such as separation of concerns and low coupling.
+This is a simple web server made with Python using basic classes from the standard library for handling web requests. The server follows good design practices like separating different parts and keeping them loosely connected.
 
 ## Project Structure
 
-The project is organized into several modules:
+The project is divided into different parts:
 
-- `server/app.py`: Initializes and runs the HTTP server.
-- `router/router.py`: Handles routing of HTTP requests to appropriate controllers.
-- `controllers/`: Contains controller functions to handle different routes.
-- `utils/config.py`: Loads configuration settings from a `.env` file.
+- `server/app.py`: Sets up and starts the web server.
+- `router/router.py`: Directs web requests to the right places.
+- `controllers/`: Holds functions that manage different pages.
+- `utils/config.py`: Loads settings from a .env file.
 
 ## Usage
 ```bash
