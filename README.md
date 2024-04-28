@@ -16,7 +16,8 @@ The project is divided into different parts:
 pipenv run python main.py
 ```
 
-The server will start listening on the specified port (default is 8000). You can then access the following routes:
+The server will start and wait for requests on the specified port (by default, it's 8000). You can then access these pages:
+
 
 - `/`: Home page.
 - `/about`: About page.
