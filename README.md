@@ -24,7 +24,7 @@ The server will start and wait for requests on the specified port (by default, i
 
 ## Dependencies
 
-- `python-dotenv`: For loading environment variables from `.env` files.
+- `python-dotenv`: is for loading settings from `.env` files.
 
 ## Contributing
 
