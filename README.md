@@ -25,7 +25,3 @@ The server will start and wait for requests on the specified port (by default, i
 ## Dependencies
 
 - `python-dotenv`: is for loading settings from `.env` files.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
