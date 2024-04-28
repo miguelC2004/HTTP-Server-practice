@@ -26,10 +26,6 @@ The server will start and wait for requests on the specified port (by default, i
 
 - `python-dotenv`: is for loading settings from `.env` files.
 
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or features you'd like to see.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
