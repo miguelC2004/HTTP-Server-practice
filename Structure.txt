@@ -1,0 +1,23 @@
+project/
+│
+├── server/
+│   ├── __init__.py
+│   └── app.py
+│
+├── router/
+│   ├── __init__.py
+│   └── router.py
+│
+├── controllers/
+│   ├── __init__.py
+│   ├── home_controller.py
+│   └── about_controller.py
+│
+├── utils/
+│   ├── __init__.py
+│   └── config.py
+│
+├── .env
+├── Pipfile
+├── Pipfile.lock
+└── main.py
