@@ -5,8 +5,8 @@ from controllers.aboutController import aboutController
 class Router(BaseHTTPRequestHandler):
     def do_GET(self):
         routes = {
-            '/': home_controller,
-            '/about': about_controller
+            '/': homeController,
+            '/about': aboutController
         }
 
         if self.path in routes:
